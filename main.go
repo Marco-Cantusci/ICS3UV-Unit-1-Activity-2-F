@@ -23,7 +23,7 @@ func main() {
 	fmt.Println("2009         *       2027                 ="    + fmt.Sprint(2009 * 2027))
 
 	// division
-	fmt.Println("2009         /       2027                 ="    + fmt.Sprint(2009.0 / 2027.0))
+	fmt.Println("2009         /       2027                 ="    + fmt.Sprint(2009 / 2027))
 
 	// modulo
 	fmt.Println("2009         %       2027                 ="    + fmt.Sprint(2009 % 2027))
